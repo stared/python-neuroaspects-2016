@@ -1,8 +1,6 @@
 # First steps with data analysis in Python
 
-[First steps with data analysis in Python](First steps with data analysis in Python) - a 3h hands-on workshop at [Aspects of Neuroscience 2016](http://neuroaspects.org/), 25-27th November 2016 (Warsaw, Poland).
-
-By [Piotr Migdał, PhD](http://p.migdal.pl/).
+[First steps with data analysis in Python](First steps with data analysis in Python) - a 3h hands-on workshop at [Aspects of Neuroscience 2016](http://neuroaspects.org/), 25-27th November 2016 (Warsaw, Poland), by [Piotr Migdał, PhD](http://p.migdal.pl/).
 
 ## Abstract
 
@@ -18,7 +16,8 @@ Before attending workshops, install [Python 3.5 from Anaconda](ttps://www.contin
 
 Additionally, I recommend opening the command line (or for Windows: Anaconda console) and typing:
 
-```# conda install seaborn
+```bash
+$ conda install seaborn
 ```
 
 to get much nicer plots.
