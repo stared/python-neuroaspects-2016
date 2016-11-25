@@ -21,3 +21,11 @@ $ conda install seaborn
 ```
 
 to get much nicer plots.
+
+## Outline
+
+* Programming
+* Jupyter Notebook
+* Python basics
+* Pandas
+* Project
