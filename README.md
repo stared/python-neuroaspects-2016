@@ -24,8 +24,26 @@ to get much nicer plots.
 
 ## Outline
 
-* Programming
-* Jupyter Notebook
-* Python basics
-* Pandas
-* Project
+(notebook are in progress)
+
+* [0. What is programming? Why Python?](0_intro.ipynb)
+* [1. Programming in Python](1_basics_programming.ipynb)
+* [2. More of Python](2_more_of_python.ipynb)
+* [3. Data analysis in Python](3_data_analysis.ipynb)
+
+## References
+
+Some notebooks contain links. Here are a few additional ones:
+
+Just after the workshop I've spotted a book with an introduction to Python for science:
+http://www.southampton.ac.uk/~fangohr/teaching/python/book.html
+
+There were questions how to move from MATLAB to Python. This once covers it:
+http://scottsievert.com/blog/2015/09/01/matlab-to-python/
+
+The state of current
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+And if you actually want to play with it:
+https://gist.github.com/stared/70daf8e0334abf6e7527259e7221f568
+(Be sure to look at the references)
