@@ -27,7 +27,7 @@ to get much nicer plots.
 (notebook are in progress)
 
 * [0. What is programming? Why Python?](0_intro.ipynb)
-* [1. Programming in Python](1_basics_programming.ipynb)
+* [1. Programming in Python](1_basic_programming.ipynb)
 * [2. More of Python](2_more_of_python.ipynb)
 * [3. Data analysis in Python](3_data_analysis.ipynb)
 
@@ -41,7 +41,10 @@ http://www.southampton.ac.uk/~fangohr/teaching/python/book.html
 There were questions how to move from MATLAB to Python. This once covers it:
 http://scottsievert.com/blog/2015/09/01/matlab-to-python/
 
-The state of current
+My general science to data science introduction:
+http://p.migdal.pl/2016/03/15/data-science-intro-for-math-phys-background.html
+
+The state of current recurrent neural networks
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 And if you actually want to play with it:
